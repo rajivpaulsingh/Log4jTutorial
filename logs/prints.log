@@ -1,0 +1,9 @@
+12:42:52.807 [main] DEBUG act - Setting chrome driver property
+12:42:54.650 [main] INFO  act - Window Maximized
+12:42:54.650 [main] DEBUG act - Now hitting Amazon server
+12:42:58.087 [main] INFO  act - Landed on amazon home page
+12:43:02.614 [main] DEBUG act - Getting the frames count
+12:43:02.635 [main] INFO  act - Frames count retreived
+12:43:02.650 [main] INFO  act - Successfully switched to frame
+12:43:02.650 [main] DEBUG act - Identifying Draggable objects
+12:43:02.960 [main] INFO  act - Drag and drop success
